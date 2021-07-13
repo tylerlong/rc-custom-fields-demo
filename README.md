@@ -14,3 +14,12 @@ Rename `.env.sample` to `.env` and edit it to specify credentials.
 ```
 yarn test
 ```
+
+
+## Sample output
+
+```
+30 entries were found in total
+6 entries have customFields
+24 entries have NO customFields
+```
